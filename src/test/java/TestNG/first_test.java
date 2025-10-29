@@ -36,6 +36,9 @@ public class first_test {
 	void Before() {
 		System.out.println("test ");
 	}
+	@Test(priority=1){
+		system.out.println("chandra")
+	}
 	
 	
 	
